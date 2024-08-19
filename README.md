@@ -22,12 +22,12 @@ To run this project, ensure you have the following dependencies installed: [requ
    Execute the script to perform data analysis and model training:
 
    ```bash
-   python analysis.py
+   python main.py
    ```
 
    **OR**
 
-   Checkout the **Jupyter Notebook** file [EmployeeAttrition](EmployeeAttrition.ipynb).
+   Checkout the **Jupyter Notebook** file [EmployeeAttrition.ipynb](EmployeeAttrition.ipynb).
 
 ## Results
 
